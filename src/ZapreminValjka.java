@@ -5,7 +5,7 @@ public class ZapreminValjka {
         final double PI = 3.14; // Konstanta PI
         double V = (R*R) * PI * H ; // Proracun zapremine Valjka
         System.out.println(V); // Uradjena implicitna ( automacka ) konverzija
-        // imas neki dinar
+        // imas neki dinar dwdw
 
     }
 }
